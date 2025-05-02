@@ -1,0 +1,6 @@
+C:\Users\com88\Downloads\Project limbus TH\Dowload app\bin\publish\DowloadApp.exe
+C:\Users\com88\Downloads\Project limbus TH\Dowload app\bin\publish\DowloadApp.dll
+C:\Users\com88\Downloads\Project limbus TH\Dowload app\bin\publish\DowloadApp.deps.json
+C:\Users\com88\Downloads\Project limbus TH\Dowload app\bin\publish\DowloadApp.runtimeconfig.json
+C:\Users\com88\Downloads\Project limbus TH\Dowload app\bin\publish\DowloadApp.pdb
+C:\Users\com88\Downloads\Project limbus TH\Dowload app\bin\publish\Newtonsoft.Json.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z+63IOEYgjw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\com88\\Downloads\\Project limbus TH\\Dowload app\\DowloadApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\com88\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.10\\microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+    "C:\\Users\\com88\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
